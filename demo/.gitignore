@@ -5,4 +5,8 @@ Scripts/
 db.sqlite3
 static
 build
+static_root/
+.env
+static_in_env/
+__pycache__/
 
